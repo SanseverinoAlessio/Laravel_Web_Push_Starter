@@ -141,7 +141,7 @@ if ("serviceWorker" in navigator) {
 Start backend:
 
 ```bash
-php artisan serve
+php artisan serve --port 80 -> it works only in http://localhost or https not http://localhost:8080 
 ```
 
 Start frontend:
