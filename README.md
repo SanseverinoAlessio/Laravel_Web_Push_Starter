@@ -29,7 +29,7 @@ You only need to update values inside these existing files according to your app
 ### Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/SanseverinoAlessio/Laravel_Web_Push_Starter.git
 cd <project-folder>
 ```
 
