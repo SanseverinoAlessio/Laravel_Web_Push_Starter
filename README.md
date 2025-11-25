@@ -126,14 +126,6 @@ The service worker files included in the project handle:
 These files are already implemented.  
 Modify only project-specific details (notification title, icon, etc.) if needed.
 
-Frontend registration:
-
-```js
-if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("/service-worker.js");
-}
-```
-
 ---
 
 ## Running the Project
